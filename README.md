@@ -23,7 +23,7 @@ Amber Liu
 4. computed: Dependent Properties
 5. watch: Execute code upon data changes
 
-* <a href={{ link }}>Google</a> doesn't work
+* <!-- <a href={{ link }}>Google</a> --> doesn't work
 
 * <a  v-bind:href="link">Google</a>
 
