@@ -31,7 +31,7 @@ Amber Liu
 
 * v-html
 
-* <button v-on:click="increase(2[, $event])">Click me</button
+* "<button v-on:click="increase(2[, $event])">Click me</button>"
 
 * <p v-on:mousemove="updateCoordinates">Coordinates: {{ x }}/{{ y }}</p>
 
